@@ -1,0 +1,5 @@
+D:\TestCode\WebBrowserDefinition\WebBrowserDefinition\bin\WebBrowserDefinition.dll
+D:\TestCode\WebBrowserDefinition\WebBrowserDefinition\bin\WebBrowserDefinition.pdb
+D:\TestCode\WebBrowserDefinition\WebBrowserDefinition\obj\Debug\WebBrowserDefinition.csprojResolveAssemblyReference.cache
+D:\TestCode\WebBrowserDefinition\WebBrowserDefinition\obj\Debug\WebBrowserDefinition.dll
+D:\TestCode\WebBrowserDefinition\WebBrowserDefinition\obj\Debug\WebBrowserDefinition.pdb
